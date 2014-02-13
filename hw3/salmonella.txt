@@ -1,0 +1,17 @@
+﻿
+Mafalda Borges
+
+These are the proteins I found when I entered the amino acids I found into blast, I took the first two entries for amino acid sequence that I entered in Blast. All of the amino acids code for Salmonella. 
+
+1. surface presentation of antigens [Salmonella enterica subsp. enterica serovar Typhimurium]/ATP synthase SpaL [Salmonella enterica]
+
+2. needle length control protein [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]/antigen presentation protein SpaN [Salmonella enterica]
+
+3. needle complex export protein [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]/type III secretion system protein SpaR [Salmonella enterica]
+
+4. surface presentation of antigens protein SpaO [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]/surface presentation of antigens protein (associated with type III secretion and virulence) [Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150]
+
+5. surface presentation of antigens protein SpaS [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]/type III secretion system protein SpaS [Salmonella enterica]
+
+
+
